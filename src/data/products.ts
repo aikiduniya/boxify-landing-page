@@ -143,7 +143,8 @@ export const products: Product[] = [
       "Two-piece sliding drawer boxes create a memorable reveal moment. Perfect for cosmetics, accessories, gourmet, and signature product launches that deserve a tactile experience.",
     image: sliding,
     externalLink: "https://dailyboxpackaging.com/products/sliding-boxes/",
-    tag: "Versatile",
+    tag: "Versatile — 3D View",
+    model3d: "/models/slider-box.glb",
     features: [
       "Two-piece drawer + sleeve construction",
       "Pull-tab or thumb-cut options",
