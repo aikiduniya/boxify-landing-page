@@ -120,7 +120,8 @@ export const products: Product[] = [
       "Heavy-duty rigid boxes engineered for the weight of glass candles. Custom inserts hold the jar securely while premium finishes turn unboxing into part of the ritual.",
     image: candle,
     externalLink: "https://dailyboxpackaging.com/products/rigid-candle-boxes/",
-    tag: "Trending",
+    tag: "Trending — 3D View",
+    model3d: "/models/rigid-candle-box.glb",
     features: [
       "Reinforced rigid construction for glass jars",
       "Custom-fit foam or paper pulp inserts",
@@ -142,7 +143,8 @@ export const products: Product[] = [
       "Two-piece sliding drawer boxes create a memorable reveal moment. Perfect for cosmetics, accessories, gourmet, and signature product launches that deserve a tactile experience.",
     image: sliding,
     externalLink: "https://dailyboxpackaging.com/products/sliding-boxes/",
-    tag: "Versatile",
+    tag: "Versatile — 3D View",
+    model3d: "/models/slider-box.glb",
     features: [
       "Two-piece drawer + sleeve construction",
       "Pull-tab or thumb-cut options",
