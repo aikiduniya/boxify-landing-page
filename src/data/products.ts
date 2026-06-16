@@ -120,7 +120,8 @@ export const products: Product[] = [
       "Heavy-duty rigid boxes engineered for the weight of glass candles. Custom inserts hold the jar securely while premium finishes turn unboxing into part of the ritual.",
     image: candle,
     externalLink: "https://dailyboxpackaging.com/products/rigid-candle-boxes/",
-    tag: "Trending",
+    tag: "Trending — 3D View",
+    model3d: "/models/rigid-candle-box.glb",
     features: [
       "Reinforced rigid construction for glass jars",
       "Custom-fit foam or paper pulp inserts",
