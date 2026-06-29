@@ -1,9 +1,5 @@
 import magneticAssembled from "@/assets/products/magnetic-assembled.jpg";
-import collapsible from "@/assets/products/collapsible.png";
 import jewelry from "@/assets/products/jewelry.jpg";
-import watch from "@/assets/products/watch.jpg";
-import candle from "@/assets/products/candle.jpg";
-import sliding from "@/assets/products/sliding.png";
 
 export type Product = {
   slug: string;
