@@ -77,7 +77,8 @@ export const products: Product[] = [
       "Showcase rings, necklaces, bracelets, and earrings in jewelry boxes designed to feel as precious as their contents. Custom velvet inserts cradle each piece while premium finishes elevate your brand.",
     image: jewelry,
     externalLink: "https://dailyboxpackaging.com/products/jewelry-boxes/",
-    tag: "Luxury",
+    tag: "Luxury — 3D View",
+    model3d: "/models/jewelry-box.glb",
     features: [
       "Custom velvet, satin, or foam inserts",
       "Ring slots, necklace pads, earring holders",
