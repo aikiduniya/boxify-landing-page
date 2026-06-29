@@ -1,4 +1,3 @@
-import magneticAssembled from "@/assets/products/magnetic-assembled.jpg";
 import collapsible from "@/assets/products/collapsible.png";
 import jewelry from "@/assets/products/jewelry.jpg";
 import watch from "@/assets/products/watch.jpg";
@@ -23,6 +22,7 @@ export type Product = {
 };
 
 export const products: Product[] = [
+  {
     slug: "mailer-boxes",
     title: "Mailer Boxes",
     description: "Sturdy custom mailer boxes built for e-commerce — durable, brandable, unboxing-ready.",
