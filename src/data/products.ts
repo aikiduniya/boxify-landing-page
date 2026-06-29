@@ -23,30 +23,6 @@ export type Product = {
 };
 
 export const products: Product[] = [
-  {
-    slug: "magnetic-closure-boxes-assembled",
-    title: "Magnetic Closure Boxes (Assembled)",
-    description: "Pre-assembled luxury rigid boxes with strong magnetic closure for a premium unboxing.",
-    longDescription:
-      "Our pre-assembled magnetic closure boxes deliver an instantly premium unboxing experience. Built from sturdy rigid greyboard wrapped in your choice of premium paper, with hidden magnets that snap shut with a satisfying click — perfect for high-end retail, gifting, subscription boxes, and PR mailers.",
-    image: magneticAssembled,
-    externalLink: "https://dailyboxpackaging.com/products/magnetic-closure-boxes-assembled/",
-    tag: "Bestseller — 3D View",
-    model3d: "/models/magnetic-box.glb",
-    features: [
-      "Strong hidden neodymium magnets",
-      "Rigid 1200–1500 GSM greyboard construction",
-      "Custom inserts (foam, EVA, velvet, paper pulp)",
-      "Foil stamping, embossing, debossing, spot UV",
-      "Soft-touch, matte, gloss, or textured finish",
-    ],
-    materials: ["Rigid greyboard", "Specialty paper wrap", "Recycled kraft", "Eco-friendly options"],
-    finishes: ["Matte lamination", "Gloss lamination", "Soft-touch", "Foil stamping", "Embossing", "Spot UV"],
-    useCases: ["Luxury retail", "Subscription boxes", "PR & influencer mailers", "Corporate gifting", "Wedding & event"],
-    moq: "100 units",
-    turnaround: "10–15 business days",
-  },
-  {
     slug: "mailer-boxes",
     title: "Mailer Boxes",
     description: "Sturdy custom mailer boxes built for e-commerce — durable, brandable, unboxing-ready.",
@@ -116,7 +92,7 @@ export const products: Product[] = [
   },
   {
     slug: "rigid-candle-boxes",
-    title: "Rigid Candle Boxes",
+    title: "Magntic Rigid Boxes",
     description: "Sturdy rigid candle boxes designed to protect, present, and elevate your fragrance brand.",
     longDescription:
       "Heavy-duty rigid boxes engineered for the weight of glass candles. Custom inserts hold the jar securely while premium finishes turn unboxing into part of the ritual.",
